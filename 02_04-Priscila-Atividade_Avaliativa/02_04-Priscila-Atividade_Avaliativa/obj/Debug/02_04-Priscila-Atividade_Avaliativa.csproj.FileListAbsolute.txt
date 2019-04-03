@@ -1,0 +1,11 @@
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\bin\Debug\02_04-Priscila-Atividade_Avaliativa.exe.config
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\bin\Debug\02_04-Priscila-Atividade_Avaliativa.exe
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\bin\Debug\02_04-Priscila-Atividade_Avaliativa.pdb
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\02_04-Priscila-Atividade_Avaliativa.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\_02_04_Priscila_Atividade_Avaliativa.Form2.resources
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\_02_04_Priscila_Atividade_Avaliativa.Properties.Resources.resources
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\02_04-Priscila-Atividade_Avaliativa.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\02_04-Priscila-Atividade_Avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\02_04-Priscila-Atividade_Avaliativa.exe
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\02_04-Priscila-Atividade_Avaliativa.pdb
+C:\Users\aluno\Desktop\02_04-Priscila-Atividade_Avaliativa\02_04-Priscila-Atividade_Avaliativa\obj\Debug\_02_04_Priscila_Atividade_Avaliativa.Form1.resources
