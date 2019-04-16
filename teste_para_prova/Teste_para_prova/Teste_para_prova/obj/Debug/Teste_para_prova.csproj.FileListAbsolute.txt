@@ -10,3 +10,16 @@ C:\Users\julio\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debu
 C:\Users\julio\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\bin\Debug\zu\Teste_para_prova.resources.dll
 C:\Users\julio\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.Form1.zu.resources
 C:\Users\julio\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\zu\Teste_para_prova.resources.dll
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\bin\Debug\Teste_para_prova.exe.config
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.exe
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.pdb
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\bin\Debug\Teste_para_prova.exe
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\bin\Debug\Teste_para_prova.pdb
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\bin\Debug\zu\Teste_para_prova.resources.dll
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.csprojResolveAssemblyReference.cache
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.Form1.resources
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.Properties.Resources.resources
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.Form1.zu.resources
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.csproj.GenerateResource.Cache
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\zu\Teste_para_prova.resources.dll
+C:\Users\a851825\C-\C-\teste_para_prova\Teste_para_prova\Teste_para_prova\obj\Debug\Teste_para_prova.Form2.resources

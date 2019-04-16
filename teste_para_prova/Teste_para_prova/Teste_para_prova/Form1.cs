@@ -40,7 +40,9 @@ namespace Teste_para_prova
             }
             else
             {
-                MessageBox.Show("Senha incorreta!");
+                MessageBox.Show("Senha incorreta!","Atenção", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtSenha.Clear();
+                txtSenha.Focus();
             }
         }
 
