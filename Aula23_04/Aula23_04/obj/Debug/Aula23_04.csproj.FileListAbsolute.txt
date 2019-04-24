@@ -1,0 +1,13 @@
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\bin\Debug\Aula23_04.exe.config
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\bin\Debug\Aula23_04.exe
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\bin\Debug\Aula23_04.pdb
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.Form1.resources
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.Properties.Resources.resources
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.exe
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.pdb
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.Form2.resources
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.Form3.resources
+C:\Users\aluno\Desktop\Aula23_04\Aula23_04\obj\Debug\Aula23_04.AboutBox1.resources
